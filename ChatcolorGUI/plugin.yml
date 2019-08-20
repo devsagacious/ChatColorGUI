@@ -1,0 +1,7 @@
+main: com.Sagacious_.ChatcolorGUI.Core
+name: ChatcolorGUI
+version: 1.0
+author: Sagacious_
+commands:
+  chatcolor:
+    usage: /<command>

@@ -1,0 +1,21 @@
+blacklist: ['MAGIC', 'STRIKETHROUGH', 'UNDERLINE', 'ITALIC', 'BOLD', 'RESET']
+
+format: '%color%%color_name% Color'
+buy-itemstack: 'STAINED_GLASS_PANE'
+
+#Color ID (default 14=red)
+#set to 0 if unapplicable
+buy-itemstack-short: 14
+
+buy-display: '&cBuy more chatcolors...'
+buy-lore: ['&7You can buy more chatcolors', '&7Just do &b/buy &7or go to &cmy.shop.com&7!']
+
+inventory-title: '&7%owned% &eowned ChatColors!'
+
+selected: '&c&lMyServer &8| &rYou have selected %color%%color_name% &rColor!'
+deselected: '&c&lMyServer &8| &rYou have deselected %color%%color_name% &rColor!'
+inventory-sound: 'NOTE_PLING'
+inventory-buy-sound: 'ENDERDRAGON_GROWL'
+
+
+selected-append-displayname: "&aSELECTED"
